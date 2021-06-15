@@ -27,5 +27,7 @@ cd archgamingsetup
 
 # Edit The Script and Running It.
 Use your text editor of choice, and comment out the one that fits your graphics card distributor.
+
 then, sudo chmod +x archgamingsetup.sh
-run ./archgamingsetup.sh
+
+now finally run ./archgamingsetup.sh
