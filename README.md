@@ -15,7 +15,9 @@ sudo pacman -S git
 
 # Install Yay (Required)
 https://aur.archlinux.org/yay-bin.git
+
 cd yay-bin
+
 makepkg -si
 
 # Script Installation
