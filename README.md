@@ -5,8 +5,8 @@ https://github.com/lutris/docs/blob/master/InstallingDrivers.md
 
 https://github.com/lutris/docs/blob/master/WineDependencies.md
 # Enable Multilib if you haven't
-Comment out this
-<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">/etc/pacman.conf
+Comment out this at /etc/pacman.conf
+<pre style="margin-bottom: 0; border-bottom:none; padding-bottom:0.8em;">
 --------------------------------------------------------------------------------------
 [multilib]
 Include = /etc/pacman.d/mirrorlist</pre>
