@@ -21,4 +21,9 @@ cd yay-bin
 makepkg -si
 
 # Script Installation
-git clone https://github.com
+git clone https://github.com/sneccolol2k/archgamingsetup.git
+
+cd archgamingsetup
+
+# Edit The Script
+Use your text editor of choice, and comment out the one that fits your graphics card distributor.
