@@ -26,8 +26,8 @@ git clone https://github.com/sneccolol2k/archgamingsetup.git
 cd archgamingsetup
 
 # Edit The Script and Running It.
-Use your text editor of choice, and comment out the one that fits your graphics card distributor.
+Before you run it, Use your text editor of choice, and comment out the one that fits your graphics card distributor.
 
-then, sudo chmod +x gamingsetup.sh
+now run, sudo chmod +x gamingsetup.sh
 
-now finally run ./gamingsetup.sh
+then finally run ./gamingsetup.sh
