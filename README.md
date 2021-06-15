@@ -14,7 +14,7 @@ Include = /etc/pacman.d/mirrorlist</pre>
 sudo pacman -S git
 
 # Install Yay (Required)
-https://aur.archlinux.org/yay-bin.git
+git clone https://aur.archlinux.org/yay-bin.git
 
 cd yay-bin
 
