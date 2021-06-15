@@ -16,7 +16,7 @@ sudo pacman -S wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib3
 sudo pacman -S gamemode lib32-gamemode
 
 # Installs DXVK
-yay -S dxvk-bin
+winetricks dxvk
 
 # Installs Steam and Lutris
 sudo pacman -S steam lutris
