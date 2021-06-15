@@ -1,5 +1,6 @@
 # Arch Gaming Setup
 This shell script is to setup Gaming on Arch Linux (Based on the Lutris dependencies and drivers page)
+
 https://github.com/lutris/docs/blob/master/InstallingDrivers.md
 https://github.com/lutris/docs/blob/master/WineDependencies.md
 
