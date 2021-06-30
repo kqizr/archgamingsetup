@@ -11,9 +11,9 @@ Comment out this at /etc/pacman.conf
 Include = /etc/pacman.d/mirrorlist</pre>
 
 # Install Git if you haven't (Required)
-sudo pacman -S git
+sudo pacman -Syu git
 
-# Install Yay (Required)
+# Install Yay if you haven't (Required)
 git clone https://aur.archlinux.org/yay-bin.git
 
 cd yay-bin
