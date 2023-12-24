@@ -24,5 +24,5 @@ sudo pacman -S steam lutris
 # Installs MangoHud & Goverlay (GUI for editing Mangohud)
 yay -S goverlay-bin mangohud lib32-mangohud
 
-# Installs Linux-Zen Kernel (Custom-Patched Kernel with the F-Sync Patches
-sudo pacman -S linux-zen linux-zen-headers
+# (OPTINAL) Installs Linux-Zen Kernel (Custom-Patched Kernel with the F-Sync Patches
+#sudo pacman -S linux-zen linux-zen-headers
